@@ -78,7 +78,7 @@ img {
     display: flex;
     align-items: center;
 }
-#likes {
+#likes, #likes1, #likes2 {
     font-size: 18px;
 }
 .info {
